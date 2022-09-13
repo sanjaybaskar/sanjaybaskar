@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @sanjaybaskar
-- 👀 I’m interested in web application development.
-- 🌱 I’m currently learning Python and DevOps practice tools
-- 💞️ I’m looking to collaborate on Python and Angular developer
-- 📫 How to reach me @ sanjay.baskar1828@gmail.com
+    Hello!! I'm so glad that you are here :)
 
-<!---
-sanjaybaskar/sanjaybaskar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Sanjaybaskar a DevOps Engineer
+- 👀 Currently working on DevOps project to showcase my learnings.
+- 🌱 For that currently learning DevOps tools like Dokcer - K8s - Git & GitHub - Ansible - Terraform - AWS
+- 💞️ I’m looking to collaborate on DevOps Engineers
+- 📫 Reach me @ sanjay.baskar1828@gmail.com 
+
