@@ -2,7 +2,7 @@
 
 - :man_technologist: I’m @Sanjaybaskar a **DevOps Engineer**.
 - 👀 Currently working on a **DevOps project to showcase my learnings**.
-- 🌱 For that currently learning DevOps tools like **Dokcer - K8s - Git & GitHub - Ansible - Terraform - AWS**
+- 🌱 For that currently learning DevOps tools like **Docker - K8s - Git & GitHub - Ansible - Terraform - AWS**
 - :handshake: I’m looking to collaborate on DevOps Engineers
 - 📫 Reach me @ sanjay.baskar1828@gmail.com 
 
